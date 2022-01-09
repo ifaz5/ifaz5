@@ -4,5 +4,5 @@
 - 💞 I’m looking to collaborate on some ReactJs projects
 - 📫 How to reach me mutasim.ifaz@gmail.com
 - 🌐 My portfolio mutasimifaz.web.app
-- ▶️ My channel Randomn? | https://www.youtube.com/channel/UCv3CjwNWirqeNpTfT7vO5Cw |
+- ▶️ [My channel Randomn?] (https://www.youtube.com/channel/UCv3CjwNWirqeNpTfT7vO5Cw)
 - ⭐ Fun Fact : I love listening to music 🎶
