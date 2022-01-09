@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mutasim Hussain
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning React
 - 💞 I’m looking to collaborate on some projects
 - 📫 How to reach me mutasim.ifaz@gmail.com
