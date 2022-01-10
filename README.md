@@ -5,5 +5,5 @@
 - 📫 How to reach me mutasim.ifaz@gmail.com
 - 🌐 My portfolio mutasimifaz.web.app
 - ![fb](https://i.ibb.co/Fw2D6xm/New-Project.png) My Facebook [mutasim.ifaz](https://www.facebook.com/mutasim.hussain.ifaz)
-- ![ln](https://i.ibb.co/djtz0TT/linkedin.png) My Linkedin [mutasimifaz](https://www.facebook.com/mutasim.hussain.ifaz)
+- ![ln](https://i.ibb.co/RSjC5dJ/New-Project.png) My Linkedin [mutasimifaz](https://www.facebook.com/mutasim.hussain.ifaz)
 - ⭐ Fun Fact : I love listening to music 🎶
