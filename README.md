@@ -4,5 +4,6 @@
 - 💞 I’m looking to collaborate on some ReactJs projects
 - 📫 How to reach me mutasim.ifaz@gmail.com
 - 🌐 My portfolio mutasimifaz.web.app
-- ![fb](https://i.ibb.co/MRk1Rwx/fb.png) My Facebook [mutasim.ifaz](https://www.facebook.com/mutasim.hussain.ifaz)
+- ![fb](https://i.ibb.co/Fw2D6xm/New-Project.png) My Facebook [mutasim.ifaz](https://www.facebook.com/mutasim.hussain.ifaz)
+- ![ln](https://i.ibb.co/djtz0TT/linkedin.png) My Linkedin [mutasimifaz](https://www.facebook.com/mutasim.hussain.ifaz)
 - ⭐ Fun Fact : I love listening to music 🎶
