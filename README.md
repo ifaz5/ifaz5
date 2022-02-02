@@ -30,4 +30,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifaz5&" alt="ifaz5" /></p>
-<p><img align="center" src="https://readme-jokes.vercel.app/api?theme=default" alt="ifaz5" /></p>
