@@ -20,8 +20,6 @@
 <a href= https://github.com/ifaz5?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaz5&layout=compact" alt="ifaz5" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifaz5&show_icons=true&theme=radical" alt="ifaz5" /></p>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifaz5&label=Profile%20views&color=0e75b6&style=flat" alt="ifaz5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifaz5" alt="ifaz5" /></a> </p>
