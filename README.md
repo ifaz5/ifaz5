@@ -7,6 +7,8 @@
 - ![fb](https://i.ibb.co/Fw2D6xm/New-Project.png) My Facebook [mutasim.ifaz](https://www.facebook.com/mutasim.hussain.ifaz)
 - ![ln](https://i.ibb.co/RSjC5dJ/New-Project.png) My Linkedin [mutasimifaz](https://www.facebook.com/mutasim.hussain.ifaz)
 - ⭐ Fun Fact : I love listening to music 🎶
+
+<p>
 <a href= https://github.com/mutasimifazmutasimifazmutasimifazmutasimifaz?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/mutasimifazmutasimifazmutasimifaz?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/mutasimifazmutasimifaz?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
