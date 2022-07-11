@@ -5,7 +5,7 @@
 - 📫 How to reach me mutasim.ifaz@gmail.com
 - 🌐 My portfolio mutasimifaz.web.app
 - ![fb](https://i.ibb.co/Fw2D6xm/New-Project.png) My Facebook [mutasim.ifaz](https://www.facebook.com/mutasim.hussain.ifaz)
-- ![ln](https://i.ibb.co/RSjC5dJ/New-Project.png) My Linkedin [mutasimifaz](https://www.facebook.com/mutasim.hussain.ifaz)
+- ![ln](https://i.ibb.co/RSjC5dJ/New-Project.png) My Linkedin [mutasimifaz](https://www.linkedin.com/in/mutasimifaz)
 - ⭐ Fun Fact : I love listening to music 🎶
 
 <p>
@@ -22,7 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutasimifaz&show_icons=true&theme=radical" alt="mutasimifaz" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mutasimifaz&label=Profile%20views&color=0e75b6&style=flat" alt="mutasimifaz" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutasimifaz" alt="mutasimifaz" /></a> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutasimifaz&" alt="mutasimifaz" /></p>
